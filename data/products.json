@@ -1,0 +1,373 @@
+[
+    {
+        "id":1,
+        "name": "Men Slim fit Casual Shirt",
+        "category":"Men",
+        "category_id":1,
+        "sub_id":1,
+        "ratings":4.5,
+        "price":459,
+        "size":39,
+        "image":"https://ibb.co/gPS6vft",
+        "Brand":"Highlander"
+
+
+    },
+
+    {
+        "id":2,
+        "name": "Men Blue Regular Fit Faded Casual Denim Shirt",
+        "category":"Men",
+        "category_id":1,
+        "sub_id":1,
+        "ratings":4.0,
+        "price":599,
+        "size":39,
+        "image":"https://ibb.co/DQWM0Y5",
+        "Brand":"Roadster"
+    },
+
+    {
+        "id":3,
+        "name": "Slim Fit Casual Shirt",
+        "category":"Men",
+        "category_id":1,
+        "sub_id":1,
+        "ratings":4.2,
+        "price":461,
+        "size":40,
+        "color":"Green",
+        "image":"https://ibb.co/RB31R1B",
+        "Brand":"Roadster"
+
+    
+    },
+
+    {
+        "id":4,
+        "name": "Single-Breasted Casual Blazer",
+        "category":"Men",
+        "category_id":1,
+        "sub_id":2,
+        "ratings":4.8,
+        "price":2500,
+        "size":42,
+        "color":"Grey",
+        "image":"https://ibb.co/BTC2ZK2",  
+        "Brand":"Lois Phllipen"
+    },
+   
+    {
+    "id":5,
+    "name": "Embroided Kurta with Chudidar",
+    "category":"Men",
+    "category_id":1,
+    "ratings":3.8,
+    "price":2999,
+    "size":38,
+    "color":"Red",
+    "image":"https://ibb.co/BTC2ZK2",  
+    "Brand":"Manyavar"
+    },
+
+    {
+        "id":6,
+        "name": "Floral Screen Print Kurta set",
+        "category":"Women",
+        "category_id":2,
+        "sub_id":6,
+        "ratings":4.6,
+        "price":1349,
+        "size":38,
+        "color":"Maroon",
+        "image":"https://ibb.co/BTC2ZK2",  
+        "Brand":"Indo Era"
+    },
+
+    { 
+        "id":7,
+        "name": "Floral Print Peplum Top",
+        "category":"Women",
+        "category_id":2,
+        "sub_id":7,
+        "ratings":4.1,
+        "price":479,
+        "size":34,
+        "color":"Yellow",
+        "image":"https://ibb.co/BTC2ZK2",  
+        "Brand":"KASSUALLY"
+
+    },
+
+    {
+        "id":8,
+        "name": "One shoulder Fitted Top",
+        "category":"Women",
+        "category_id":2,
+        "sub_id":7,
+        "ratings":4.5,
+        "price":2093,
+        "size":32,
+        "color":"Black",
+        "image":"https://ibb.co/BTC2ZK2",  
+        "Brand":"Mango"
+    },
+    
+    {
+        "id":9,
+        "name": "Printed Organza Saree",
+        "category":"Women",
+        "category_id":2,
+        "sub_id":8,
+        "ratings":4.0,
+        "price":899,
+        "size":"Onesize",
+        "color":"White",
+        "image":"https://ibb.co/BTC2ZK2",  
+        "Brand":"Lois Phllipen"
+    },
+
+    {
+        "id":10,
+        "name": "Navy Blue Floral Cotton A-Line Kurta",
+        "category":"Woen",
+        "category_id":2,
+        "sub_id":6,
+        "ratings":4.1,
+        "price":1049,
+        "size":38,
+        "color":"NavyBlue",
+        "image":"https://ibb.co/gj2g08d",  
+        "Brand":"Nayo"
+    },
+
+    {
+        "id":11,
+        "name": "Women Pink & White Block Printed Straight Kurta",
+        "category":"Women",
+        "category_id":2,
+        "sub_id":8,
+        "ratings":4.8,
+        "price":419,
+        "size":34,
+        "color":"Pink",
+        "image":"https://ibb.co/R2DTSdS",  
+        "Brand":"Popnetic"
+    },
+
+    {
+        "id":12,
+        "name": "Women Yellow & White Printed Kurta with Sharara & Dupatta",
+        "category":"Women",
+        "category_id":2,
+        "sub_id":8,
+        "ratings":4.3,
+        "price":1399,
+        "size":42,
+        "color":"Yellow",
+        "image":"https://ibb.co/WvCzQBD",  
+        "Brand":"Yuris"
+    },
+
+    {
+        "id":13,
+        "name": "Women White Floral Embroidered Kurta",
+        "category":"Women",
+        "category_id":2,
+        "sub_id":6,
+        "ratings":3.8,
+        "price":1798,
+        "size":32,
+        "color":"White",
+        "image":"https://ibb.co/xGNX8jW",  
+        "Brand":"Anubhutee"
+    },
+
+    {
+        "id":14,
+        "name": "Solid Wrap Top",
+        "category":"Women",
+        "category_id":2,
+        "sub_id":2,
+        "ratings":4.3,
+        "price":741,
+        "size":36,
+        "color":"LimeGreen",
+        "image":"https://ibb.co/VCdJyrd",  
+        "Brand":"Athena"
+    },
+
+    {
+        "id":15,
+        "name": "One Shoulder Puff Sleeves Cinched Waist Crop Top",
+        "category":"Women",
+        "category_id":2,
+        "sub_id":7,
+        "ratings":4.9,
+        "price":779,
+        "size":32,
+        "color":"Black",
+        "image":"https://ibb.co/vvC2s00",  
+        "Brand":"Sassafras"
+    },
+
+    {
+        "id":16,
+        "name": "Fitted Top",
+        "category":"Women",
+        "category_id":2,
+        "sub_id":7,
+        "ratings":4.0,
+        "price":1400,
+        "size":36,
+        "color":"White",
+        "image":"https://ibb.co/TYfrD66",  
+        "Brand":"Forever New"
+    },
+
+    {
+        "id":17,
+        "name": "Floral Printed A-Line Dress",
+        "category":"Women",
+        "category_id":2,
+        "sub_id":10,
+        "ratings":4.3,
+        "price":849,
+        "size":40,
+        "color":"Orange",
+        "image":"https://ibb.co/FJPbb4m",  
+        "Brand":"Harpa"
+    },
+
+    {
+        "id":18,
+        "name": "Linen Sheath Mini Dresser",
+        "category":"Women",
+        "category_id":2,
+        "sub_id":10,
+        "ratings":4.1,
+        "price":7800,
+        "size":30,
+        "color":"Pink",
+        "image":"https://ibb.co/vxT3B7J",  
+        "Brand":"Forever New"
+    },
+
+    {
+        "id":19,
+        "name": "Printed A-Line Dress",
+        "category":"Women",
+        "category_id":2,
+        "sub_id":10,
+        "ratings":4.4,
+        "price":849,
+        "size":34,
+        "color":"Lavender",
+        "image":"https://ibb.co/mXFGF0h",  
+        "Brand":"MELOSO"
+    },
+
+    {
+        "id":20,
+        "name": "Solid Regular Fit Pure Cotton Shorts",
+        "category":"Women",
+        "category_id":2,
+        "sub_id":11,
+        "ratings":3.9,
+        "price":519,
+        "size":32,
+        "color":"Olive",
+        "image":"https://ibb.co/k04hTcM",  
+        "Brand":"Popnetic"
+    },
+
+    {
+        "id":21,
+        "name": "Solid Midi Wrap Skirt",
+        "category":"Women",
+        "category_id":2,
+        "sub_id":11,
+        "ratings":4.3,
+        "price":767,
+        "size":36,
+        "color":"Black",
+        "image":"https://ibb.co/pby4W4D",  
+        "Brand":"SASSAFRAS"
+    },
+
+    {
+        "id":22,
+        "name": "Women Solid Pencil Skirt",
+        "category":"Women",
+        "category_id":2,
+        "sub_id":11,
+        "ratings":4.2,
+        "price":2093,
+        "size":26,
+        "color":"Beige",
+        "image":"https://ibb.co/mD1kG8R",  
+        "Brand":"Mango"
+    },
+
+    {
+        "id":23,
+        "name": " Loose Fit High-Rise Denim Shorts",
+        "category":"Women",
+        "category_id":2,
+        "sub_id":11,
+        "ratings":4.4,
+        "price":714,
+        "size":28,
+        "color":"Blue",
+        "image":"https://ibb.co/NVwGKTb",  
+        "Brand":"Roadster"
+    },
+
+    {
+        "id":24,
+        "name": "Striped Flounce-Trimmed Cotton Top",
+        "category":"Kids",
+        "category_id":3,
+        "sub_id":9,
+        "ratings":4.2,
+        "price":399,
+        "size":21.5,
+        "color":"Blue",
+        "image":"https://ibb.co/5jmMgg6",  
+        "Brand":"H&M"
+    },
+
+    {
+        "id":25,
+        "name": "Striped Regular Top",
+        "category":"Kids",
+        "category_id":3,
+        "sub_id":9,
+        "ratings":3.5,
+        "price":648,
+        "size":19.69,
+        "color":"Peach",
+        "image":"https://ibb.co/pP5tFhv",  
+        "Brand":"CUTECUMBER"
+    }
+
+    {
+        "id":26,
+        "name": "Spiderman Printed Slim Fit T-shirt",
+        "category": "Kids",
+        "category_id": 3,
+        "sub_id":12,
+        "ratings":3.5,
+        "price":648,
+        "size":19.69,
+        "color":"Peach",
+        "image":"https://ibb.co/pP5tFhv",  
+        "Brand":"CUTECUMBER"
+
+    }
+
+    
+   
+ 
+
+]

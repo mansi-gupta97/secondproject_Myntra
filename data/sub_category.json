@@ -1,0 +1,120 @@
+[
+    {
+        "id":1,
+        "sub_category":"Shirt"
+
+    },
+
+    {
+        "id":2,
+        "sub_category":"T-shirt"
+    },
+
+    {
+        "id":3,
+        "sub_category":"Blazers&Coats"
+    },
+
+    {
+        "id":4,
+        "sub_category":"Jeans"
+    },
+
+    {
+        "id":5,
+        "sub_category":"Trackpantsr"
+    },
+
+    {
+        "id":6,
+        "sub_category":"Kurti"
+    },
+
+    {
+        "id":7,
+        "sub_category":"Tops"
+    },
+
+    {
+        "id":8,
+        "sub_category":"Saree"
+    },
+
+    {
+        "id":9,
+        "sub_category":"GirlClothing"
+    },
+
+    {
+        "id":10,
+        "sub_category":"Dresses"
+    },
+
+    {
+        "id":11,
+        "sub_category":"Shorts&Skirts"
+    },
+
+    {
+        "id":12,
+        "sub_category":"BoyClothing"
+    },
+
+    {
+        "id":13,
+        "sub_category":"Bedsheets"
+    },
+
+    {
+        "id":14,
+        "sub_category":"Clocks"
+    },
+
+    {
+        "id":15,
+        "sub_category":"Aroma&Candles"
+    },
+
+    {
+        "id":16,
+        "sub_category":"TableLamps"
+    },
+
+    {
+        "id":17,
+        "sub_category":"Showpieces"
+    },
+
+    {
+        "id":18,
+        "sub_category":"Cleansers"
+    },
+
+    {
+        "id":19,
+        "sub_category":"MakeupKit"
+    },
+
+    {
+        "id":20,
+        "sub_category":"Nailpaint"
+    },
+
+    {
+        "id":21,
+        "sub_category":"HairOIl"
+    },
+
+    {
+        "id":22,
+        "sub_category":"Moisturizer"
+    }
+
+    
+    
+
+
+
+    
+
+]
